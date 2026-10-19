@@ -2,6 +2,8 @@
 
 SmartSpenda is a personal finance management application designed to help users track their expenses, manage budgets, and achieve financial goals through visualization and gamification.
 
+Built as a group project (Group 3) with Kotlin, Room, MPAndroidChart and Material Design 3.
+
 ## Features
 
 ### Core Features
