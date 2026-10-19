@@ -4,6 +4,14 @@ SmartSpenda is a personal finance management application designed to help users 
 
 Built as a group project (Group 3) with Kotlin, Room, MPAndroidChart and Material Design 3.
 
+[![Android build](https://github.com/OlugaNels/smartspenda/actions/workflows/android-build.yml/badge.svg)](https://github.com/OlugaNels/smartspenda/actions/workflows/android-build.yml)
+
+## Screenshots
+
+| Dashboard | Budget | History | Category summary |
+|---|---|---|---|
+| <img src="docs/screenshots/dashboard.jpeg" width="190" alt="Dashboard with monthly total and recent transactions"> | <img src="docs/screenshots/budget.jpeg" width="190" alt="Monthly and category budgets"> | <img src="docs/screenshots/history.jpeg" width="190" alt="Expense history"> | <img src="docs/screenshots/category-summary.jpeg" width="190" alt="Spending by category"> |
+
 ## Features
 
 ### Core Features
