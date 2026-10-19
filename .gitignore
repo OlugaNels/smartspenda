@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+node_modules/
+.gradle/
+build/
+.idea/
+local.properties
+*.log
+*.db
+.env*
+nbproject/private/
+dist/
